@@ -1,6 +1,6 @@
 # Desktop-security
 <h3>what this script it will do ?</h3>
-After setting this up in your linux system, every time someone turn on your system it.
+After setting this up in your linux system, when ever someone gonna turn on your system.
 it's gonna send you an image of that person in your email .
 so if that person it not you. or it,s someone unwanted. 
 you can just send an email to back .like Shutdown or change password.
